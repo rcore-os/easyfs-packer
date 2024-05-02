@@ -13,7 +13,3 @@ repository = "https://github.com/rcore-os/easyfs-packer"
 clap = "2.33.3"
 easyfs = "0.1"
 rand = "0.8.0"
-
-# [features]
-# board_qemu = []
-# board_k210 = []
